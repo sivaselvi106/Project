@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\ArrayClass\UserDetails\bin\Debug\UserDetails.exe.config
+C:\Users\admin\source\repos\ArrayClass\UserDetails\bin\Debug\UserDetails.exe
+C:\Users\admin\source\repos\ArrayClass\UserDetails\bin\Debug\UserDetails.pdb
+C:\Users\admin\source\repos\ArrayClass\UserDetails\obj\Debug\UserDetails.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ArrayClass\UserDetails\obj\Debug\UserDetails.exe
+C:\Users\admin\source\repos\ArrayClass\UserDetails\obj\Debug\UserDetails.pdb
